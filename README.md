@@ -30,7 +30,8 @@ n=int(input())
 ```
 
 ## Output:
-![model](/circulate.png)
+![circulate](https://user-images.githubusercontent.com/118707363/211735463-a5ecf51e-97ca-45c6-b70d-7b65231587d7.png)
+
 
 ## Result: 
 Thus circulate the values of N variables are successfully executed
